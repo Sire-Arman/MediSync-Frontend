@@ -1,0 +1,84 @@
+{
+  "districts": [
+    {
+      "id": "1",
+      "state_id": "1",
+      "name": "Mumbai",
+      "bn_name": "मुंबई",
+      "lat": "19.0760",
+      "long": "72.8777"
+    },
+    {
+      "id": "2",
+      "state_id": "1",
+      "name": "Pune",
+      "bn_name": "पुणे",
+      "lat": "18.5204",
+      "long": "73.8567"
+    },
+    {
+      "id": "3",
+      "state_id": "2",
+      "name": "Bangalore",
+      "bn_name": "ಬೆಂಗಳೂರು",
+      "lat": "12.9716",
+      "long": "77.5946"
+    },
+    {
+      "id": "4",
+      "state_id": "3",
+      "name": "Delhi",
+      "bn_name": "दिल्ली",
+      "lat": "28.7041",
+      "long": "77.1025"
+    },
+    {
+      "id": "5",
+      "state_id": "4",
+      "name": "Kolkata",
+      "bn_name": "কলকাতা",
+      "lat": "22.5726",
+      "long": "88.3639"
+    },
+    {
+      "id": "6",
+      "state_id": "5",
+      "name": "Chennai",
+      "bn_name": "சென்னை",
+      "lat": "13.0827",
+      "long": "80.2707"
+    },
+    {
+      "id": "7",
+      "state_id": "6",
+      "name": "Hyderabad",
+      "bn_name": "హైదరాబాద్",
+      "lat": "17.3850",
+      "long": "78.4867"
+    },
+    {
+      "id": "8",
+      "state_id": "7",
+      "name": "Ahmedabad",
+      "bn_name": "અમદાવાદ",
+      "lat": "23.0225",
+      "long": "72.5714"
+    },
+    {
+      "id": "9",
+      "state_id": "8",
+      "name": "Jaipur",
+      "bn_name": "जयपुर",
+      "lat": "26.9124",
+      "long": "75.7873"
+    },
+    {
+      "id": "10",
+      "state_id": "9",
+      "name": "Lucknow",
+      "bn_name": "लखनऊ",
+      "lat": "26.8467",
+      "long": "80.9462"
+    }
+  ]
+}
