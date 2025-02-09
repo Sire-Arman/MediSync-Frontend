@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="mx-auto max-w-[320px] text-center md:max-w-[270px] md:text-left lg:max-w-[320px]">
             <img
               className="mx-auto h-10 md:mx-0"
-              src="../../../MediSync.png"
+              src="./logo.png"
               alt="MediSync"
             />
             <p className="mt-5 text-[15px] font-medium text-gray-600">
